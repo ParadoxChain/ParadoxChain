@@ -1,0 +1,2 @@
+# ParadoxChain
+Paradox Smart Chain
